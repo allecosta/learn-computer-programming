@@ -192,3 +192,7 @@ int main() {
 Foi printado porque essa condição é verdadeira
 Foi printado porque essa condição é verdadeira
 ```
+<br><br>
+
+### Fonte de referência:
+https://www.tutorialspoint.com/computer_programming/index.htm
