@@ -1,6 +1,6 @@
 # Estruturas de Decisão
 
-*Declaração de decisões em programação de computadores, haverá várias situações que você terá duas ou mais opções,<br>
+*Declaração de decisões em programação de computadores, haverão várias situações que você terá duas ou mais opções,<br>
 e você tem que selecionar uma opção baseado em dada condição.<br>*
 
 *O exemplo abaixo, é sobre um estudante e suas notas:*
@@ -41,9 +41,9 @@ Resultado:
 O estudante é médio
 ```
 
-*O programa usa a condicional ```IF```, aqui o primeiro ```IF```verifica se a condição x é maior que 95 ou não,<br> 
+*O programa usa a condicional ```if```, aqui o primeiro ```if```verifica se a condição x é maior que 95 ou não,<br> 
 se a condição for verdadeira, executa a estrução printf().<br>
-Similar, trabalha o segundo IF. Finalmente o terceiro IF é executado.*
+Similar, trabalha o segundo ```if```. Finalmente o terceiro IF é executado.*
 
 *Abaixo temos duas condições:*
 
@@ -56,11 +56,11 @@ uma delas, temos a ajuda do operador binário ```&&```.<br>
 Se o resultado final é verdadeiro, a declaração da condicional é executada.*
 
 
-### IF ... ELSE
+### if ... else
 
-*Uma declaração ```IF``` segue uma declaração opcional ```ELSE```, que será executado se a expressão booleana for falso.*<br>
+*Uma declaração ```if``` segue uma declaração opcional ```else```, que será executado se a expressão booleana for falso.*<br>
 
-*Abaixo, segue a sintaxe de IF, ELSE na linguagem C*
+*Abaixo, segue a sintaxe de if, else na linguagem C*
 ```
 if (expressão_booleana) {
 	Esta declaração será executada se a expressão booleana é verdadeira
@@ -99,9 +99,9 @@ Resultado:
 O estudante não é brilhante
 ```
 
-### IF ... ELSE IF ... ELSE
+### if ... else if ... else
 
-*Uma declaração IF, segue como opcional a declaração ```ELSE IF ... ELSE```, para utilização com várias condicionais.*<br>
+*Uma declaração ```if```, segue como opcional a declaração ```else if... else```, para utilização com várias condicionais.*<br>
 
 *Abaixo segue a sintaxe na linguagem C*
 
@@ -143,9 +143,9 @@ O estudante é médio
 ```
 
 
-### SWITCH
+### switch
 
-*Um ```SWITCH``` é uma declaração alternativa a delcaração ```IF```.*
+*Um ```switch``` é uma declaração alternativa a delcaração ```if```.*
 
 *Segue sintaxe:*
 
